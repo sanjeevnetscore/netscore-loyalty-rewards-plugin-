@@ -1,1 +1,1 @@
-# netscore-loyalty-rewards-plugin-
+# netscore-loyalty-rewards-plugin
